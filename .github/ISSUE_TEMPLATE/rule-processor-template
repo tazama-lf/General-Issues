@@ -67,6 +67,6 @@ If the `targetAmount` in the query response is `null` or empty there was an erro
 
 ## 5. Determine rule results
 
-Define the rule results via either the determineBandedOutcome or determineCasedOutcome functions according to the rule config.
+Define the rule results via either the determineOutcome (banded) or a custom exclusiveDetermineOutcome (cased) function according to the rule config.
 
 ## 6. Return the ruleResult
