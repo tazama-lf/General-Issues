@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+
 ---
 name: Rule processor template
 about: A template to guide the specification of a new rule processor
