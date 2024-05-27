@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+
 ---
 name: Actio issue template
 about: Recommend work
